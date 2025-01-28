@@ -33,7 +33,7 @@ export const CardData = [
 export const CoursesData = [
   {
     id: 1,
-    img: "./public/UI & UX (2).jpg",
+    img: "./UI & UX (2).jpg",
     department: "Graphic Design",
     title: "UI & UX Design",
     rating: "4.7",
@@ -47,7 +47,7 @@ export const CoursesData = [
   },
   {
     id: 2,
-    img: "./public/Development(3).jpg",
+    img: "./Development(3).jpg",
     department: "Software Development",
     title: "Project Design",
     rating: "4.6",
@@ -61,7 +61,7 @@ export const CoursesData = [
   },
   {
     id: 3,
-    img: "./public/WebDevelopment(2).jpg",
+    img: "./WebDevelopment(2).jpg",
     department: "Web Development",
     title: "HTML & CSS",
     rating: "4.9",
@@ -79,7 +79,7 @@ export const ratingData = [
   {
     id: 1,
     stars: "★★★★★",
-    img: "./public/Person1.jpg",
+    img: "./Person1.jpg",
     description:
       "This Course Exceed My Expectations Were Clear, and the hands-on Projects Helped Me Build Real-World Skills, Highly Recommend it to anyone Looking To Learn!",
     name: "Gammal Mahmoud",
@@ -88,7 +88,7 @@ export const ratingData = [
   {
     id: 2,
     stars: "★★★★☆",
-    img: "./public/Person2.jpg",
+    img: "./Person2.jpg",
     description:
       "This Course Exceed My Expectations Were Clear, and the hands-on Projects Helped Me Build Real-World Skills, Highly Recommend it to anyone Looking To Learn!",
     name: "Mariem Mohamed",
@@ -97,7 +97,7 @@ export const ratingData = [
   {
     id: 3,
     stars: "★★★★★",
-    img: "./public/Person3.jpg",
+    img: "./Person3.jpg",
     description:
       "This Course Exceed My Expectations Were Clear, and the hands-on Projects Helped Me Build Real-World Skills, Highly Recommend it to anyone Looking To Learn!",
     name: "Eslam Tarek",
