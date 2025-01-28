@@ -1,6 +1,6 @@
 # React + Vite
 ## https://edubridge-v2.vercel.app/
-<img src="public/Edubridge.png" />
+<img src="public/EduBridge.png" />
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
